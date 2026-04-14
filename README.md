@@ -1,7 +1,7 @@
 # API Testing (Postman)
 
 ##  Коллекция
-Файл: knigirum_postman_collection.json
+Файл: KnigiRoom.postman_collection
 
 ## 🔧 Что протестировано:
 - Получение списка книг
